@@ -1,4 +1,4 @@
-# Zadanie rekrutacyjne — Senior Frontend Engineer
+# Wiki Knowledge Graph
 
 **Wiki Knowledge Graph** — przeglądarka wiedzy oparta na grafie, napisana w Vue 3 + Vite. Aplikacja wizualizuje sieć pojęć (węzły) i powiązań między nimi (krawędzie) z zakresu obsługi ekspresu do kawy. Dane są mock'owane lokalnie w `src/data/mock.js`.
 
